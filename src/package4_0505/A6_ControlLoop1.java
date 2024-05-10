@@ -2,7 +2,7 @@ package package4_0505;
 
 import java.util.Scanner;
 
-public class A6_ControlLoop {
+public class A6_ControlLoop1 {
 	
 	  // for loop - used when iterations are know
 	 
