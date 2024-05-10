@@ -2,7 +2,7 @@ package assignments;
 
 import java.util.Scanner;
 
-public class Assignment3 {
+public class Assignment03 {
 	
 	// W.A Java program for accepting a number from user and test whether it is even or odd
 

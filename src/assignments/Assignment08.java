@@ -1,6 +1,6 @@
 package assignments;
 
-public class Assignment8 {
+public class Assignment08 {
 	
 	/* print "*" in 4 rows and 4 columns as per below
 	 *  1

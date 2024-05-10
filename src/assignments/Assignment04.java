@@ -2,7 +2,7 @@ package assignments;
 
 import java.util.Scanner;
 
-public class Assignment4 {
+public class Assignment04 {
 
 	// W.A Java program for accepting a number from user and test whether it is positive or negative
 	

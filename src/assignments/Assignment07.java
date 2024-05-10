@@ -2,7 +2,7 @@ package assignments;
 
 import java.util.Scanner;
 
-public class Assignment7 {
+public class Assignment07 {
 
 	
 	//W.A Program to accept number from user and reverse the same

@@ -1,6 +1,6 @@
 package assignments;
 
-public class Assignment1 
+public class Assignment01 
 {
 	
 /*

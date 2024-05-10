@@ -2,7 +2,7 @@ package assignments;
 
 import java.util.Scanner;
 
-public class Assignment2 {
+public class Assignment02 {
 	
 	public void personaldetails (String fname, String lname, String gender, int age, long pn, int zc, String email)
 	{
@@ -43,7 +43,7 @@ public class Assignment2 {
 		
 		
 		
-		Assignment2 ref1 = new Assignment2();
+		Assignment02 ref1 = new Assignment02();
 		ref1.personaldetails(f1, l1, gen, ag, p, z, em);
 	
 		sc.close();
