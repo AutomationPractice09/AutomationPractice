@@ -2,6 +2,10 @@ package package3a_0405;
 
 public class A3_ThisDemo3 {
 	
+	
+	//this keyword used to invoke current class constructor
+	
+	
 	public A3_ThisDemo3()
 	{
         this(60);                                            //calling parameterized constructor at first line using this keyword		

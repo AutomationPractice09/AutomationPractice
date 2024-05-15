@@ -2,6 +2,10 @@ package package3a_0405;
 
 public class A4_ThisDemo4 {
 	
+	
+	//this can be passed as an argument in the method call
+	
+	
 	public void m1(A4_ThisDemo4 ref1)
 	{
 		System.out.println("This keyword invoke current class object");

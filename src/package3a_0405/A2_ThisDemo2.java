@@ -1,6 +1,9 @@
 package package3a_0405;
 
 public class A2_ThisDemo2 {
+	
+	//this can be used to invoke current class method (implicitly)
+	
 
 	public void m1()
 	{

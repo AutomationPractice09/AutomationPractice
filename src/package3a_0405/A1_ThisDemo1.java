@@ -1,6 +1,9 @@
 package package3a_0405;
 
 public class A1_ThisDemo1 {
+	
+	
+	//this keyword can be used to refer current class instance variable.
 
 	int id;
 	String name;
