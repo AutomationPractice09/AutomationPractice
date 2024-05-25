@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class A2_ArrayListMethods {
 	
-	// add(), get(), size(), isEmpty(), contains(), remove(), clear() for ArrayList
+	// add(), get(), size(), isEmpty(), contains(), remove(), add(index,value), clear() for ArrayList
 
 	public static void main(String[] args) 
 	{
@@ -42,9 +42,17 @@ public class A2_ArrayListMethods {
 		System.out.println(a1);    
 		
 		
+		//if user want to add element at any specific position
+		a1.add(2, 77);
+		System.out.println(a1);
+		
+		
 		//clear()
 		a1.clear();                        //to remove all elements from ArrayList
 		System.out.println(a1);
+		
+		
+		
 	}
 
 }
