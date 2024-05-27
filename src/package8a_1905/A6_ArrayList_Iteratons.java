@@ -42,8 +42,7 @@ public class A6_ArrayList_Iteratons {
 		{
 			System.out.println(ir1.next());          //next() method print the element and increase the counter 
 		}
-		
-		
+
 	}
 
 }
