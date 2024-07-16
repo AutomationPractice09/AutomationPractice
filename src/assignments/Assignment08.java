@@ -2,7 +2,7 @@ package assignments;
 
 public class Assignment08 {
 	
-	/* print "*" in 4 rows and 4 columns as per below
+	/* print below in 4 rows and 4 columns as per below
 	 *  1
 	 *  23
 	 *  456
